@@ -1,6 +1,6 @@
 # ScyPi
 
-################################# PT-BR #################################
+################################# PT-BR ################################# \n
 Busquei aprender a biblioteca SciPy e através dela revisar alguns conceitos relacionados ao ciclo básico de engenharia.
 
 Tópicos a serem abordados: 
@@ -13,7 +13,7 @@ Tópicos a serem abordados:
   - Estatistica
  
  
-################################# EN-US #################################
+################################# EN-US ################################# \n
 I've tried to learn SciPy library, and with it, review some engineering basic cycle chairs.
 
 Topics: 
